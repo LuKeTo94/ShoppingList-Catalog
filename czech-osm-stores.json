@@ -11388,12 +11388,14 @@
       "osmId": "node/1128065709",
       "name": "PENNY",
       "chain": "Penny",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Školská 581, Žamberk, 56401",
       "city": "Žamberk",
       "latitude": 50.0786928,
       "longitude": 16.4618552,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 581259
+      "ruian_municipality_code": 581259,
+      "address_source": "OFFICIAL_PENNY_UNIQUE_OSM_CITY",
+      "address_source_url": "https://www.penny.cz/prodejny"
     },
     {
       "osmId": "node/11281477028",
@@ -11938,12 +11940,14 @@
       "osmId": "node/2241969876",
       "name": "PENNY",
       "chain": "Penny",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Sjednocení 846, Studénka, 74213",
       "city": "Studénka",
       "latitude": 49.7132213,
       "longitude": 18.0543673,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 599921
+      "ruian_municipality_code": 599921,
+      "address_source": "OFFICIAL_PENNY_UNIQUE_OSM_CITY",
+      "address_source_url": "https://www.penny.cz/prodejny"
     },
     {
       "osmId": "node/2242001821",
@@ -12180,12 +12184,14 @@
       "osmId": "node/30012549",
       "name": "Penny market",
       "chain": "Penny",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Uničovská 1186/16, Litovel, 78401",
       "city": "Litovel",
       "latitude": 49.7110465,
       "longitude": 17.0737666,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 503444
+      "ruian_municipality_code": 503444,
+      "address_source": "OFFICIAL_PENNY_UNIQUE_OSM_CITY",
+      "address_source_url": "https://www.penny.cz/prodejny"
     },
     {
       "osmId": "node/304105503",
@@ -12301,12 +12307,14 @@
       "osmId": "node/354614642",
       "name": "Penny",
       "chain": "Penny",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Průmyslová 874, Železný Brod, 46822",
       "city": "Železný Brod",
       "latitude": 50.6407678,
       "longitude": 15.2502873,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 563871
+      "ruian_municipality_code": 563871,
+      "address_source": "OFFICIAL_PENNY_UNIQUE_OSM_CITY",
+      "address_source_url": "https://www.penny.cz/prodejny"
     },
     {
       "osmId": "node/3563478093",
@@ -12774,12 +12782,14 @@
       "osmId": "node/6169741877",
       "name": "PENNY",
       "chain": "Penny",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Masarykovo nám. 1247, Nýřany, 33023",
       "city": "Nýřany",
       "latitude": 49.7134986,
       "longitude": 13.2069182,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 559300
+      "ruian_municipality_code": 559300,
+      "address_source": "OFFICIAL_PENNY_UNIQUE_OSM_CITY",
+      "address_source_url": "https://www.penny.cz/prodejny"
     },
     {
       "osmId": "node/6174708826",
@@ -13247,12 +13257,14 @@
       "osmId": "way/110324083",
       "name": "Penny",
       "chain": "Penny",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Hlavní 1602, Frýdlant nad Ostravicí, 73911",
       "city": "Frýdlant nad Ostravicí",
       "latitude": 49.5833872,
       "longitude": 18.3600221,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 598143
+      "ruian_municipality_code": 598143,
+      "address_source": "OFFICIAL_PENNY_UNIQUE_OSM_CITY",
+      "address_source_url": "https://www.penny.cz/prodejny"
     },
     {
       "osmId": "way/111737044",
@@ -13764,23 +13776,27 @@
       "osmId": "way/254004784",
       "name": "Penny",
       "chain": "Penny",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Fügnerova 2a/2387, Blansko, 67801",
       "city": "Blansko",
       "latitude": 49.3565928,
       "longitude": 16.6457415,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 581283
+      "ruian_municipality_code": 581283,
+      "address_source": "OFFICIAL_PENNY_UNIQUE_OSM_CITY",
+      "address_source_url": "https://www.penny.cz/prodejny"
     },
     {
       "osmId": "way/260770718",
       "name": "Penny Market",
       "chain": "Penny",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Lidická 480, Příbor, 74258",
       "city": "Příbor",
       "latitude": 49.6412549,
       "longitude": 18.1430338,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 599808
+      "ruian_municipality_code": 599808,
+      "address_source": "OFFICIAL_PENNY_UNIQUE_OSM_CITY",
+      "address_source_url": "https://www.penny.cz/prodejny"
     },
     {
       "osmId": "way/263371612",
@@ -14512,12 +14528,14 @@
       "osmId": "way/71070002",
       "name": "Penny",
       "chain": "Penny",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Tyršova 1730, Kuřim, 66434",
       "city": "Kuřim",
       "latitude": 49.2979342,
       "longitude": 16.5463512,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 583251
+      "ruian_municipality_code": 583251,
+      "address_source": "OFFICIAL_PENNY_UNIQUE_OSM_CITY",
+      "address_source_url": "https://www.penny.cz/prodejny"
     },
     {
       "osmId": "way/71389176",
@@ -14545,12 +14563,14 @@
       "osmId": "way/74045815",
       "name": "Penny",
       "chain": "Penny",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Kapitána Jaroše 1682, Kadaň, 43201",
       "city": "Kadaň",
       "latitude": 50.3841677,
       "longitude": 13.2701131,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 563102
+      "ruian_municipality_code": 563102,
+      "address_source": "OFFICIAL_PENNY_UNIQUE_OSM_CITY",
+      "address_source_url": "https://www.penny.cz/prodejny"
     },
     {
       "osmId": "way/74548902",
@@ -17312,5 +17332,11 @@
     "index": "https://prodejny.kaufland.cz/aktualne/servis/seznam-prodejen.html",
     "method": "unique official branch and unique OSM branch per municipality",
     "count": 55
+  },
+  "additional_penny_addresses": {
+    "source": "Penny official public store locator",
+    "source_url": "https://www.penny.cz/prodejny",
+    "method": "complete official street+postcode only where exactly one approved OSM Penny branch exists in municipality",
+    "count": 10
   }
 }
