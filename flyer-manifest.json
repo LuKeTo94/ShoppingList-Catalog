@@ -1,0 +1,36 @@
+{
+  "catalogs": {
+    "kaufland": {
+      "bytes": 456977,
+      "issue_count": 1,
+      "issues": [
+        {
+          "issue_date": "2026-10-21",
+          "offer_count": 1546,
+          "source_pdf_sha256": "942a407254cb24a0e53c101dca06392fcc8784d9a3175913b0fbb03890e393ae",
+          "valid_from": "2026-10-21",
+          "valid_to": "2026-10-27"
+        }
+      ],
+      "offer_count": 1546,
+      "sha256": "cf2fba6ed7354a03b1a3d81b91136a7f80d1b1a7b1e0edf199579700d0e47f14"
+    },
+    "penny": {
+      "bytes": 293479,
+      "issue_count": 1,
+      "issues": [
+        {
+          "issue_date": "2026-10-21",
+          "offer_count": 616,
+          "source_pdf_sha256": "9fb539be581a668616399583afc928950f0db59746d8b470d48419e604d160ec",
+          "valid_from": "2026-10-21",
+          "valid_to": "2026-10-27"
+        }
+      ],
+      "offer_count": 616,
+      "sha256": "c1e471bbc6fad7e669802f4af23812a99e58651d0249552a547c6a46da5f4f14"
+    }
+  },
+  "published_at": "2026-10-22T10:31:39Z",
+  "schema_version": 1
+}
