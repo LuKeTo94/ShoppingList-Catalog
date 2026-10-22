@@ -6207,12 +6207,14 @@
       "osmId": "node/10111762346",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Katovická 1404, Strakonice, 38601",
       "city": "Strakonice",
       "latitude": 49.2625559,
       "longitude": 13.8896493,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 550787
+      "ruian_municipality_code": 550787,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/strakonice-katovicka-4150.html"
     },
     {
       "osmId": "node/1127410138",
@@ -6240,12 +6242,14 @@
       "osmId": "node/12843485095",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Siřejovická 1311, Lovosice, 41002",
       "city": "Lovosice",
       "latitude": 50.5063615,
       "longitude": 14.0534836,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 565229
+      "ruian_municipality_code": 565229,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/lovosice-4950.html"
     },
     {
       "osmId": "node/1292068001",
@@ -6262,12 +6266,14 @@
       "osmId": "node/1301943899",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "73301",
+      "address": "Leonovova 2015/2, Karviná, 73301",
       "city": "Karviná",
       "latitude": 49.863224,
       "longitude": 18.5536771,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 598917
+      "ruian_municipality_code": 598917,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/karvina-3800.html"
     },
     {
       "osmId": "node/13342407216",
@@ -6328,23 +6334,27 @@
       "osmId": "node/1744690181",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "9. května 1197, Bohumín, 73581",
       "city": "Bohumín",
       "latitude": 49.8993532,
       "longitude": 18.3500122,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 599051
+      "ruian_municipality_code": 599051,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/bohumin-4910.html"
     },
     {
       "osmId": "node/1828957711",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Bohuslava Martinů 2097/30, Nový Jičín, 74101",
       "city": "Nový Jičín",
       "latitude": 49.5856765,
       "longitude": 18.0021057,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 599191
+      "ruian_municipality_code": 599191,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/novy-jicin-5200.html"
     },
     {
       "osmId": "node/1842946654",
@@ -6361,56 +6371,66 @@
       "osmId": "node/1979201077",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Dr. E. Beneše 692, Česká Třebová, 56002",
       "city": "Česká Třebová",
       "latitude": 49.911999,
       "longitude": 16.4406978,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 580031
+      "ruian_municipality_code": 580031,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/ceska-trebova-6110.html"
     },
     {
       "osmId": "node/2061266968",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Pilnáčkova 436/11, Hradec Králové, 50003",
       "city": "Hradec Králové",
       "latitude": 50.2174484,
       "longitude": 15.8392061,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 569810
+      "ruian_municipality_code": 569810,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/hradec-kralove-4600.html"
     },
     {
       "osmId": "node/2294566023",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Kabátnická 1701/4, Most, 43401",
       "city": "Most",
       "latitude": 50.5121506,
       "longitude": 13.6465119,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 567027
+      "ruian_municipality_code": 567027,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/most-1600.html"
     },
     {
       "osmId": "node/2302353466",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Jiráskova 2181, Litvínov, 43601",
       "city": "Litvínov",
       "latitude": 50.59885,
       "longitude": 13.6178947,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 567256
+      "ruian_municipality_code": 567256,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/litvinov-7100.html"
     },
     {
       "osmId": "node/2318534588",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Alej 17. listopadu č. p. 2720, Roudnice nad Labem, 41301",
       "city": "Roudnice nad Labem",
       "latitude": 50.424029,
       "longitude": 14.2375297,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 565555
+      "ruian_municipality_code": 565555,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/roudnice-nad-labem-6710.html"
     },
     {
       "osmId": "node/2408410036",
@@ -6438,23 +6458,27 @@
       "osmId": "node/2897591276",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Družstevní 1389/29, Mohelnice, 78985",
       "city": "Mohelnice",
       "latitude": 49.7753205,
       "longitude": 16.9335461,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 540471
+      "ruian_municipality_code": 540471,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/mohelnice-7800.html"
     },
     {
       "osmId": "node/3101594610",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Václava Majera 2898, Louny, 44001",
       "city": "Louny",
       "latitude": 50.3530685,
       "longitude": 13.8158485,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 565971
+      "ruian_municipality_code": 565971,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/louny-1210.html"
     },
     {
       "osmId": "node/312449009",
@@ -6471,12 +6495,14 @@
       "osmId": "node/3220607606",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Polská 379, Náchod, 54701",
       "city": "Náchod",
       "latitude": 50.4239923,
       "longitude": 16.1915438,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 573868
+      "ruian_municipality_code": 573868,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/nachod-1410.html"
     },
     {
       "osmId": "node/363825681",
@@ -6493,12 +6519,14 @@
       "osmId": "node/3768640294",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Jiráskova 1315, Třeboň, 37901",
       "city": "Třeboň",
       "latitude": 49.0104094,
       "longitude": 14.7591646,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 547336
+      "ruian_municipality_code": 547336,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/trebon-1450.html"
     },
     {
       "osmId": "node/4023805144",
@@ -6526,12 +6554,14 @@
       "osmId": "node/477222784",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Na Kocandě 2201/35, Litoměřice, 41201",
       "city": "Litoměřice",
       "latitude": 50.5363289,
       "longitude": 14.1462804,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 564567
+      "ruian_municipality_code": 564567,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/litomerice-1110.html"
     },
     {
       "osmId": "node/538423577",
@@ -6548,12 +6578,14 @@
       "osmId": "node/5618685231",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "U Stadionu 1276/II, Mladá Boleslav, 29301",
       "city": "Mladá Boleslav",
       "latitude": 50.4250356,
       "longitude": 14.9124596,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 535419
+      "ruian_municipality_code": 535419,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/mlada-boleslav-1900.html"
     },
     {
       "osmId": "node/5849174387",
@@ -6570,12 +6602,14 @@
       "osmId": "node/617233423",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Oblouková 1395/4, Děčín, 40502",
       "city": "Děčín",
       "latitude": 50.7747083,
       "longitude": 14.216321,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 562335
+      "ruian_municipality_code": 562335,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/decin-1500.html"
     },
     {
       "osmId": "node/6174709786",
@@ -6603,34 +6637,40 @@
       "osmId": "node/6180879695",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Dvořákova 1161, Lanškroun, 56301",
       "city": "Lanškroun",
       "latitude": 49.9113141,
       "longitude": 16.602768,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 580511
+      "ruian_municipality_code": 580511,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/lanskroun-1150.html"
     },
     {
       "osmId": "node/7710383479",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Průmyslová 2699/1, Šternberk, 78501",
       "city": "Šternberk",
       "latitude": 49.7124996,
       "longitude": 17.2917053,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 505188
+      "ruian_municipality_code": 505188,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/sternberk-3650.html"
     },
     {
       "osmId": "node/847984578",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Vítězná 2886/6, Šumperk, 78701",
       "city": "Šumperk",
       "latitude": 49.9739183,
       "longitude": 16.9750198,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 523704
+      "ruian_municipality_code": 523704,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/sumperk-2400.html"
     },
     {
       "osmId": "node/9263471706",
@@ -6658,23 +6698,27 @@
       "osmId": "node/997984499",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Vlčnovská 2514, Uherský Brod, 68801",
       "city": "Uherský Brod",
       "latitude": 49.021535,
       "longitude": 17.6417343,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 592731
+      "ruian_municipality_code": 592731,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/uhersky-brod-4610.html"
     },
     {
       "osmId": "way/1003005588",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Meziříčská 730, Rožnov pod Radhoštěm, 75661",
       "city": "Rožnov pod Radhoštěm",
       "latitude": 49.4592532,
       "longitude": 18.1331537,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 544841
+      "ruian_municipality_code": 544841,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/roznov-pod-radhostem-4510.html"
     },
     {
       "osmId": "way/1046232051",
@@ -6691,12 +6735,14 @@
       "osmId": "way/105682053",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Ouvalova 1844, Slaný, 27401",
       "city": "Slaný",
       "latitude": 50.2273606,
       "longitude": 14.0891889,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 532819
+      "ruian_municipality_code": 532819,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/slany-4210.html"
     },
     {
       "osmId": "way/1078710756",
@@ -6713,12 +6759,14 @@
       "osmId": "way/1149282085",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Jičínská 2363, Turnov, 51101",
       "city": "Turnov",
       "latitude": 50.5803742,
       "longitude": 15.1535387,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 577626
+      "ruian_municipality_code": 577626,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/turnov-4650.html"
     },
     {
       "osmId": "way/134467592",
@@ -6735,34 +6783,40 @@
       "osmId": "way/1489254594",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Švestkový sad 1704/8, Moravská Třebová, 57101",
       "city": "Moravská Třebová",
       "latitude": 49.757161,
       "longitude": 16.6458561,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 578444
+      "ruian_municipality_code": 578444,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/moravska-trebova-4750.html"
     },
     {
       "osmId": "way/167957461",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Cukrovarská 492/4, Vyškov, 68201",
       "city": "Vyškov",
       "latitude": 49.2746838,
       "longitude": 16.9949569,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 592889
+      "ruian_municipality_code": 592889,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/vyskov-5210.html"
     },
     {
       "osmId": "way/171229951",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Šumavská 782, Klatovy, 33901",
       "city": "Klatovy",
       "latitude": 49.3881682,
       "longitude": 13.2947961,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 555771
+      "ruian_municipality_code": 555771,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/klatovy-6700.html"
     },
     {
       "osmId": "way/179554784",
@@ -6779,12 +6833,14 @@
       "osmId": "way/179939743",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Kolínská 2507, Nymburk, 28802",
       "city": "Nymburk",
       "latitude": 50.1772686,
       "longitude": 15.0445249,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 537004
+      "ruian_municipality_code": 537004,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/nymburk-5010.html"
     },
     {
       "osmId": "way/187241656",
@@ -6801,45 +6857,53 @@
       "osmId": "way/207571387",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Rovná ulice 2460/4, Boskovice, 68001",
       "city": "Boskovice",
       "latitude": 49.491043,
       "longitude": 16.6408082,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 581372
+      "ruian_municipality_code": 581372,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/boskovice-7000.html"
     },
     {
       "osmId": "way/227925785",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Štemberkova 1640, Rychnov nad Kněžnou, 51801",
       "city": "Rychnov nad Kněžnou",
       "latitude": 50.1571612,
       "longitude": 16.2753637,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 576069
+      "ruian_municipality_code": 576069,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/rychnov-nad-kneznou-7610.html"
     },
     {
       "osmId": "way/231126306",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Jeníkovská 1983, Čáslav, 28601",
       "city": "Čáslav",
       "latitude": 49.9025725,
       "longitude": 15.4035625,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 534005
+      "ruian_municipality_code": 534005,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/caslav-7300.html"
     },
     {
       "osmId": "way/23113740",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Chelčického 2376/7, Žďár nad Sázavou, 59101",
       "city": "Žďár nad Sázavou",
       "latitude": 49.5552574,
       "longitude": 15.9369501,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 595209
+      "ruian_municipality_code": 595209,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/zdar-nad-sazavou-6000.html"
     },
     {
       "osmId": "way/24241721",
@@ -6867,56 +6931,66 @@
       "osmId": "way/262168887",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Stolařská 1758, Veselí nad Moravou, 69801",
       "city": "Veselí nad Moravou",
       "latitude": 48.950686,
       "longitude": 17.3845407,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 586722
+      "ruian_municipality_code": 586722,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/veseli-nad-moravou-6910.html"
     },
     {
       "osmId": "way/26594631",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Romana Havelky 4832/1a, Jihlava, 58601",
       "city": "Jihlava",
       "latitude": 49.4065318,
       "longitude": 15.5825084,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 586846
+      "ruian_municipality_code": 586846,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/jihlava-3500.html"
     },
     {
       "osmId": "way/28785041",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "U Nádraží 2565, Písek, 39701",
       "city": "Písek",
       "latitude": 49.2982681,
       "longitude": 14.142276,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 549240
+      "ruian_municipality_code": 549240,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/pisek-2410.html"
     },
     {
       "osmId": "way/30139815",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Obvodová 3310/13A, Kroměříž, 76701",
       "city": "Kroměříž",
       "latitude": 49.2918967,
       "longitude": 17.4052023,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 588296
+      "ruian_municipality_code": 588296,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/kromeriz-4700.html"
     },
     {
       "osmId": "way/30811427",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Slovenského Nár. povst. 1081, Chrudim, 53701",
       "city": "Chrudim",
       "latitude": 49.9476438,
       "longitude": 15.8105504,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 571164
+      "ruian_municipality_code": 571164,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/chrudim-2610.html"
     },
     {
       "osmId": "way/30995348",
@@ -6933,23 +7007,27 @@
       "osmId": "way/31536541",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "U Nákladního nádraží 848, Valašské Meziříčí, 75701",
       "city": "Valašské Meziříčí",
       "latitude": 49.4771236,
       "longitude": 17.9643794,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 545058
+      "ruian_municipality_code": 545058,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/valasske-mezirici-7600.html"
     },
     {
       "osmId": "way/32934437",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Štefánikova 1410/18d, Kopřivnice, 74221",
       "city": "Kopřivnice",
       "latitude": 49.600726,
       "longitude": 18.1488147,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 599565
+      "ruian_municipality_code": 599565,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/koprivnice-5800.html"
     },
     {
       "osmId": "way/331305797",
@@ -6966,12 +7044,14 @@
       "osmId": "way/34870280",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Pivovarská 700, Domažlice, 34401",
       "city": "Domažlice",
       "latitude": 49.4426134,
       "longitude": 12.9266458,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 553425
+      "ruian_municipality_code": 553425,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/domazlice-3210.html"
     },
     {
       "osmId": "way/356356671",
@@ -6988,23 +7068,27 @@
       "osmId": "way/37376980",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Krumlovská 1103, Prachatice, 38301",
       "city": "Prachatice",
       "latitude": 49.0089023,
       "longitude": 14.0003697,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 550094
+      "ruian_municipality_code": 550094,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/prachatice-1050.html"
     },
     {
       "osmId": "way/39085636",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Červené vršky 2217, Benešov, 25601",
       "city": "Benešov",
       "latitude": 49.7936117,
       "longitude": 14.6827435,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 529303
+      "ruian_municipality_code": 529303,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/benesov-3710.html"
     },
     {
       "osmId": "way/39213645",
@@ -7021,23 +7105,27 @@
       "osmId": "way/441963954",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Dolecká 970, Jaroměř, 55101",
       "city": "Jaroměř",
       "latitude": 50.3461011,
       "longitude": 15.9064411,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 574121
+      "ruian_municipality_code": 574121,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/jaromer-1850.html"
     },
     {
       "osmId": "way/460556086",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Urbinská 236, Český Krumlov, 38101",
       "city": "Český Krumlov",
       "latitude": 48.8250768,
       "longitude": 14.3316218,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 545392
+      "ruian_municipality_code": 545392,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/cesky-krumlov-6010.html"
     },
     {
       "osmId": "way/47625380",
@@ -7054,12 +7142,14 @@
       "osmId": "way/48002579",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Jáchymova 903, Jindřichův Hradec, 37701",
       "city": "Jindřichův Hradec",
       "latitude": 49.1438637,
       "longitude": 15.02119,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 545881
+      "ruian_municipality_code": 545881,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/jindrichuv-hradec-6600.html"
     },
     {
       "osmId": "way/48059058",
@@ -7076,12 +7166,14 @@
       "osmId": "way/496343784",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Československé mládeže 3500, Varnsdorf, 40747",
       "city": "Varnsdorf",
       "latitude": 50.9134666,
       "longitude": 14.6118553,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 562882
+      "ruian_municipality_code": 562882,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/varnsdorf-1750.html"
     },
     {
       "osmId": "way/50318160",
@@ -7109,12 +7201,14 @@
       "osmId": "way/52192220",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Riegrova 1148, Jičín, 50601",
       "city": "Jičín",
       "latitude": 50.4320194,
       "longitude": 15.3552891,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 572659
+      "ruian_municipality_code": 572659,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/jicin-5910.html"
     },
     {
       "osmId": "way/52464284",
@@ -7131,12 +7225,14 @@
       "osmId": "way/53086917",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Ostravská 2030/77, Český Tešín, 73701",
       "city": "Český Těšín",
       "latitude": 49.7466621,
       "longitude": 18.6074713,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 598933
+      "ruian_municipality_code": 598933,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/cesky-tesin-6400.html"
     },
     {
       "osmId": "way/53236854",
@@ -7175,34 +7271,40 @@
       "osmId": "way/60098055",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Italská 50, Kladno, 27201",
       "city": "Kladno",
       "latitude": 50.1312274,
       "longitude": 14.116435,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 532053
+      "ruian_municipality_code": 532053,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/kladno-1800.html"
     },
     {
       "osmId": "way/68109776",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Lánovská 1656, Vrchlabí, 54301",
       "city": "Vrchlabí",
       "latitude": 50.6208573,
       "longitude": 15.6244159,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 579858
+      "ruian_municipality_code": 579858,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/vrchlabi-1550.html"
     },
     {
       "osmId": "way/689475386",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Jáchymovská ul. 1497, Ostrov, 36301",
       "city": "Ostrov",
       "latitude": 50.3152444,
       "longitude": 12.9442233,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 555428
+      "ruian_municipality_code": 555428,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/ostrov-nad-ohri-1250.html"
     },
     {
       "osmId": "way/700605828",
@@ -7219,23 +7321,27 @@
       "osmId": "way/74123147",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Na Průtahu 1960, Kadaň, 43201",
       "city": "Kadaň",
       "latitude": 50.3833686,
       "longitude": 13.2753311,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 563102
+      "ruian_municipality_code": 563102,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/kadan-7700.html"
     },
     {
       "osmId": "way/75939777",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Kadaňská 3034, Žatec, 43801",
       "city": "Žatec",
       "latitude": 50.3234493,
       "longitude": 13.5291285,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 566985
+      "ruian_municipality_code": 566985,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/zatec-3510.html"
     },
     {
       "osmId": "way/859704000",
@@ -7252,12 +7358,14 @@
       "osmId": "way/87665607",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Bělohradská 3855, Havlíčkův Brod, 58001",
       "city": "Havlíčkův Brod",
       "latitude": 49.6015948,
       "longitude": 15.5860356,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 568414
+      "ruian_municipality_code": 568414,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/havlickuv-brod-6500.html"
     },
     {
       "osmId": "way/89840505",
@@ -7285,12 +7393,14 @@
       "osmId": "way/91368209",
       "name": "Kaufland",
       "chain": "Kaufland",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Revoluční 3470, Frýdek Místek, 73801",
       "city": "Frýdek-Místek",
       "latitude": 49.6874477,
       "longitude": 18.3479126,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 598003
+      "ruian_municipality_code": 598003,
+      "address_source": "OFFICIAL_KAUFLAND_UNIQUE_CITY",
+      "address_source_url": "https://prodejny.kaufland.cz/aktualne/servis/prodejna/frydek-mistek-2500.html"
     },
     {
       "osmId": "way/92485995",
@@ -17196,5 +17306,11 @@
     "method": "unique-point-in-polygon",
     "downloaded_at_utc": "2026-10-22T19:20:36.957042+00:00",
     "feature_count": 6258
+  },
+  "additional_retailer_addresses": {
+    "source": "Kaufland official store pages",
+    "index": "https://prodejny.kaufland.cz/aktualne/servis/seznam-prodejen.html",
+    "method": "unique official branch and unique OSM branch per municipality",
+    "count": 55
   }
 }
