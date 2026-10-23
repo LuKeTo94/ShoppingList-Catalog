@@ -15963,12 +15963,16 @@
       "osmId": "node/13074786487",
       "name": "Tesco",
       "chain": "Tesco",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Palackého 520, Holešov, 76901",
       "city": "Holešov",
       "latitude": 49.3260858,
       "longitude": 17.5543076,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 588458
+      "ruian_municipality_code": 588458,
+      "address_source": "OFFICIAL_TESCO_UNIQUE_CITY",
+      "address_source_url": "https://www.itesco.cz/prodejny/hole%C5%A1ov/palackeho-520",
+      "address_evidence_city_directory": "https://www.itesco.cz/prodejny/hole%C5%A1ov",
+      "address_verified_on": "2026-10-23"
     },
     {
       "osmId": "node/14061898050",
@@ -16040,12 +16044,16 @@
       "osmId": "way/1224810370",
       "name": "Tesco",
       "chain": "Tesco",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Pražská 398, Odolena Voda, 25070",
       "city": "Odolena Voda",
       "latitude": 50.2232539,
       "longitude": 14.4169276,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 538574
+      "ruian_municipality_code": 538574,
+      "address_source": "OFFICIAL_TESCO_UNIQUE_CITY",
+      "address_source_url": "https://www.itesco.cz/prodejny/odolena-voda/pra%C5%BEsk%C3%A1-398",
+      "address_evidence_city_directory": "https://www.itesco.cz/prodejny/odolena-voda",
+      "address_verified_on": "2026-10-23"
     },
     {
       "osmId": "way/1338669784",
@@ -16062,78 +16070,106 @@
       "osmId": "way/166896080",
       "name": "Tesco",
       "chain": "Tesco",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Dráby 936, Vysoké Mýto, 56601",
       "city": "Vysoké Mýto",
       "latitude": 49.9434988,
       "longitude": 16.1665442,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 581186
+      "ruian_municipality_code": 581186,
+      "address_source": "OFFICIAL_TESCO_UNIQUE_CITY",
+      "address_source_url": "https://www.itesco.cz/prodejny/vysoke-m%C3%BDto/dr%C3%A1by-936",
+      "address_evidence_city_directory": "https://www.itesco.cz/prodejny/vysoke-m%C3%BDto",
+      "address_verified_on": "2026-10-23"
     },
     {
       "osmId": "way/250960679",
       "name": "Tesco",
       "chain": "Tesco",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Sportovců 14, Hostivice, 25301",
       "city": "Hostivice",
       "latitude": 50.0819102,
       "longitude": 14.2383161,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 539244
+      "ruian_municipality_code": 539244,
+      "address_source": "OFFICIAL_TESCO_UNIQUE_CITY",
+      "address_source_url": "https://www.itesco.cz/prodejny/hostivice/sportovc%C5%AF-14",
+      "address_evidence_city_directory": "https://www.itesco.cz/prodejny/hostivice",
+      "address_verified_on": "2026-10-23"
     },
     {
       "osmId": "way/398184203",
       "name": "Tesco",
       "chain": "Tesco",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Obchvatová 995, Skuteč, 53973",
       "city": "Skuteč",
       "latitude": 49.8497389,
       "longitude": 15.9909721,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 572241
+      "ruian_municipality_code": 572241,
+      "address_source": "OFFICIAL_TESCO_UNIQUE_CITY",
+      "address_source_url": "https://www.itesco.cz/prodejny/skute%C4%8D/obchvatov%C3%A1-995",
+      "address_evidence_city_directory": "https://www.itesco.cz/prodejny/skute%C4%8D",
+      "address_verified_on": "2026-10-23"
     },
     {
       "osmId": "way/436236846",
       "name": "Tesco",
       "chain": "Tesco",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Nádražní 228/2, Kopřivnice, 74221",
       "city": "Kopřivnice",
       "latitude": 49.6050902,
       "longitude": 18.1485557,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 599565
+      "ruian_municipality_code": 599565,
+      "address_source": "OFFICIAL_TESCO_UNIQUE_CITY",
+      "address_source_url": "https://www.itesco.cz/prodejny/kop%C5%99ivnice/n%C3%A1dra%C5%BEn%C3%AD-228/2",
+      "address_evidence_city_directory": "https://www.itesco.cz/prodejny/kop%C5%99ivnice",
+      "address_verified_on": "2026-10-23"
     },
     {
       "osmId": "way/52505796",
       "name": "Tesco",
       "chain": "Tesco",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Těšínská 2914/44, Opava, 74601",
       "city": "Opava",
       "latitude": 49.9321429,
       "longitude": 17.9178164,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 505927
+      "ruian_municipality_code": 505927,
+      "address_source": "OFFICIAL_TESCO_UNIQUE_CITY",
+      "address_source_url": "https://www.itesco.cz/prodejny/opava/t%C4%9B%C5%A1%C3%ADnsk%C3%A1-2914/44",
+      "address_evidence_city_directory": "https://www.itesco.cz/prodejny/opava",
+      "address_verified_on": "2026-10-23"
     },
     {
       "osmId": "way/67395844",
       "name": "Tesco",
       "chain": "Tesco",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Černokostelecká 2270/22, Říčany, 25101",
       "city": "Říčany",
       "latitude": 50.0027559,
       "longitude": 14.6579176,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 538728
+      "ruian_municipality_code": 538728,
+      "address_source": "OFFICIAL_TESCO_UNIQUE_CITY",
+      "address_source_url": "https://www.itesco.cz/prodejny/%C5%99%C3%AD%C4%8Dany/%C4%8Dernokosteleck%C3%A1-2270/22",
+      "address_evidence_city_directory": "https://www.itesco.cz/prodejny/%C5%99%C3%AD%C4%8Dany",
+      "address_verified_on": "2026-10-23"
     },
     {
       "osmId": "way/71389238",
       "name": "Tesco",
       "chain": "Tesco",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "Domoradická 299, Český Krumlov, 38101",
       "city": "Český Krumlov",
       "latitude": 48.8236621,
       "longitude": 14.3347214,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 545392
+      "ruian_municipality_code": 545392,
+      "address_source": "OFFICIAL_TESCO_UNIQUE_CITY",
+      "address_source_url": "https://www.itesco.cz/prodejny/cesky-krumlov/domoradick%C3%A1-299",
+      "address_evidence_city_directory": "https://www.itesco.cz/prodejny/cesky-krumlov",
+      "address_verified_on": "2026-10-23"
     },
     {
       "osmId": "node/690110773",
@@ -17338,5 +17374,13 @@
     "source_url": "https://www.penny.cz/prodejny",
     "method": "complete official street+postcode only where exactly one approved OSM Penny branch exists in municipality",
     "count": 10
+  },
+  "additional_verified_addresses_20261023": {
+    "method": "official individual page + unique city directory + unique RUIAN/OSM city",
+    "reviewed_on": "2026-10-23",
+    "counts": {
+      "Tesco": 9
+    },
+    "evidence": "scripts/verified-retailer-addresses-20261023.json"
   }
 }
