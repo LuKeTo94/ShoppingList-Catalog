@@ -76,8 +76,31 @@ jobs:
               Penny=440, Kaufland=150, Lidl=335,
               Albert=348, Billa=283, Tesco=149
           ), counts
-          assert missing_city == 915, missing_city
-          assert missing_addr == 830, missing_addr
+          # These are upper bounds from the original, unenriched OSM snapshot.
+          # Official/RÚIAN enrichment may only improve coverage; equality
+          # would reject legitimate, reviewed addresses and municipalities.
+          assert missing_city <= 915, missing_city
+          assert missing_addr <= 830, missing_addr
+          for row in rows:
+              provenance = row.get("address_source")
+              source_url = row.get("address_source_url")
+              assert bool(provenance) == bool(source_url), row["osmId"]
+              if provenance:
+                  domains = {
+                      "OFFICIAL_KAUFLAND_UNIQUE_CITY":
+                          "https://prodejny.kaufland.cz/aktualne/servis/prodejna/",
+                      "OFFICIAL_PENNY_UNIQUE_OSM_CITY":
+                          "https://www.penny.cz/prodejny",
+                  }
+                  # Any new official source needs an explicit review of
+                  # the allowed origin, not an arbitrary URL.
+                  assert provenance in domains, (row["osmId"], provenance)
+                  assert source_url.startswith(domains[provenance]), row["osmId"]
+                  assert row["city"] and re.search(r"\\d", row["address"])
+                  assert not row["address"].startswith("Adresa není")
+          print("Coverage after verified enrichment:",
+                "municipalities", len(rows) - missing_city,
+                "nonempty OSM/official addresses", len(rows) - missing_addr)
           print("OSM feed accepted:", len(rows), dict(counts),
                 "SHA-256(JSON)", hashlib.sha256(raw).hexdigest(),
                 "source PBF", data["source_sha256"])
