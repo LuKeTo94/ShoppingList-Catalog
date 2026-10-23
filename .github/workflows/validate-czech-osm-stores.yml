@@ -96,7 +96,7 @@ jobs:
                   # the allowed origin, not an arbitrary URL.
                   assert provenance in domains, (row["osmId"], provenance)
                   assert source_url.startswith(domains[provenance]), row["osmId"]
-                  assert row["city"] and re.search(r"\\d", row["address"])
+                  assert row["city"] and re.search(r"\d", row["address"])
                   assert not row["address"].startswith("Adresa není")
           print("Coverage after verified enrichment:",
                 "municipalities", len(rows) - missing_city,
