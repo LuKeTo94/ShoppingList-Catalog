@@ -13213,12 +13213,18 @@
       "osmId": "way/104560601",
       "name": "Penny",
       "chain": "Penny",
-      "address": "Adresa není v OpenStreetMap uvedena",
+      "address": "U Prefy 1708, Chotěboř, 58301",
       "city": "Chotěboř",
       "latitude": 49.7153613,
       "longitude": 15.6660949,
       "city_source": "RUIAN_OBEC",
-      "ruian_municipality_code": 568759
+      "ruian_municipality_code": 568759,
+      "address_source": "OFFICIAL_PENNY_UNIQUE_OSM_CITY",
+      "address_source_url": "https://www.penny.cz/prodejny",
+      "address_evidence_city_directory": "https://www.penny.cz/prodejny",
+      "address_verified_on": "2026-10-23",
+      "address_geo_evidence_url": "https://obleceni.bayo.cz/firma-a-kontakt/vydejni-mista/chotebor/",
+      "address_geo_distance_m": 2.3
     },
     {
       "osmId": "way/1083301703",
@@ -17373,12 +17379,13 @@
     "source": "Penny official public store locator",
     "source_url": "https://www.penny.cz/prodejny",
     "method": "complete official street+postcode only where exactly one approved OSM Penny branch exists in municipality",
-    "count": 10
+    "count": 11
   },
   "additional_verified_addresses_20261023": {
     "method": "official individual page + unique city directory + unique RUIAN/OSM city",
     "reviewed_on": "2026-10-23",
     "counts": {
+      "Penny": 1,
       "Tesco": 9
     },
     "evidence": "scripts/verified-retailer-addresses-20261023.json"
