@@ -93,6 +93,14 @@ jobs:
                           "https://www.penny.cz/prodejny",
                       "OFFICIAL_TESCO_UNIQUE_CITY":
                           "https://www.itesco.cz/prodejny/",
+                      "OFFICIAL_BILLA_GEO_CONFIRMED":
+                          "https://www.billa.cz/wolt",
+                      "OFFICIAL_LIDL_RUIAN_GEO":
+                          "https://www.lidl-rakosnickova-hriste.cz/mapa-hrist/",
+                      "MUNICIPAL_LIDL_RUIAN_GEO":
+                          "https://samosprava.nmnm.cz/46-schuze-rady-mesta-",
+                      "OFFICIAL_ALBERT_RUIAN_GEO":
+                          "https://www.albert.cz/nase-prodejny/",
                   }
                   # Any new official source needs an explicit review of
                   # the allowed origin, not an arbitrary URL.
@@ -100,6 +108,26 @@ jobs:
                   assert source_url.startswith(domains[provenance]), row["osmId"]
                   assert row["city"] and re.search(r"\d", row["address"])
                   assert not row["address"].startswith("Adresa není")
+                  if provenance in {
+                          "OFFICIAL_BILLA_GEO_CONFIRMED",
+                          "OFFICIAL_LIDL_RUIAN_GEO",
+                          "MUNICIPAL_LIDL_RUIAN_GEO",
+                          "OFFICIAL_ALBERT_RUIAN_GEO"}:
+                      assert row.get("address_geo_evidence_type") in {
+                          "retailer_box", "ruian_address_point"
+                      }, row["osmId"]
+                      geo = row.get("address_geo_evidence_url", "")
+                      assert geo.startswith((
+                          "https://www.postaonline.cz/detail-pobocky/-/pobocky/detail/",
+                          "https://regiony.kurzy.cz/",
+                          "https://www.mesec.cz/rejstrik-firem/",
+                      )), row["osmId"]
+                      assert type(row.get("address_geo_distance_m")) in (int, float)
+                      assert 0 <= row["address_geo_distance_m"] <= (
+                          85 if row["address_geo_evidence_type"] == "retailer_box"
+                          else 35
+                      ), row["osmId"]
+                      assert row.get("address_verified_on") == "2026-10-23"
                   if provenance == "OFFICIAL_TESCO_UNIQUE_CITY":
                       assert row.get("address_evidence_city_directory", "").startswith(
                           "https://www.itesco.cz/prodejny/")
