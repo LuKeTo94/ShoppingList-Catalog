@@ -91,6 +91,8 @@ jobs:
                           "https://prodejny.kaufland.cz/aktualne/servis/prodejna/",
                       "OFFICIAL_PENNY_UNIQUE_OSM_CITY":
                           "https://www.penny.cz/prodejny",
+                      "OFFICIAL_TESCO_UNIQUE_CITY":
+                          "https://www.itesco.cz/prodejny/",
                   }
                   # Any new official source needs an explicit review of
                   # the allowed origin, not an arbitrary URL.
@@ -98,6 +100,10 @@ jobs:
                   assert source_url.startswith(domains[provenance]), row["osmId"]
                   assert row["city"] and re.search(r"\d", row["address"])
                   assert not row["address"].startswith("Adresa není")
+                  if provenance == "OFFICIAL_TESCO_UNIQUE_CITY":
+                      assert row.get("address_evidence_city_directory", "").startswith(
+                          "https://www.itesco.cz/prodejny/")
+                      assert row.get("address_verified_on") == "2026-10-23"
           print("Coverage after verified enrichment:",
                 "municipalities", len(rows) - missing_city,
                 "nonempty OSM/official addresses", len(rows) - missing_addr)
